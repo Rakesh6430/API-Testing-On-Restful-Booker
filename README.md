@@ -30,3 +30,5 @@ npm install -g newman-reporter-htmlextra
 ```console
 npm install -g newman-reporter-htmlextra
 ```
+## API Documentation:
+- https://documenter.getpostman.com/view/26807129/2s93Y2TMiV

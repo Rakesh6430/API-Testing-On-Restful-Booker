@@ -38,4 +38,4 @@ npm install -g newman-reporter-htmlextra
 
 ## Full Report
 1. [ AuthorProject Report](https://0oismn759cp9zzj9awmyfg.on.drv.tw/www.mypostman.com/AuthorProject-2023-01-17-16-15-30-787-0.html)
-2. [Newman Run Report](https://0oismn759cp9zzj9awmyfg.on.drv.tw/www.newman.com/newman-run-report-2023-01-17-13-00-44-366-0.html)
+2. [Newman Run Report](https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/newman/Newman%20Report.html)

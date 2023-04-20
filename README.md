@@ -37,4 +37,4 @@ npm install -g newman-reporter-htmlextra
 ![image](https://user-images.githubusercontent.com/46712252/233272139-69b52ab1-2c13-4bfb-b4ac-27511d20440c.png)
 
 ## Full Report
-1. [Newman Run Report](https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/tree/main/newman/)
+1. [Newman Run Report](https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/newman/Newman%20Report.html))

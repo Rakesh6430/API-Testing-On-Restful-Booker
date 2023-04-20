@@ -84,5 +84,3 @@ npm install -g newman-reporter-htmlextra
 ![image](https://user-images.githubusercontent.com/46712252/233272139-69b52ab1-2c13-4bfb-b4ac-27511d20440c.png)
 ![image](https://user-images.githubusercontent.com/46712252/233385767-8d8cf79b-499d-49f4-bf54-b89673f773f2.png)
 
-## Full Report
-1. [Newman Run Report](file:///G:/Department/SQA%20Course/Assignment/API%20Project%203/newman/Newman%20Report.html)

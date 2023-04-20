@@ -34,3 +34,4 @@ npm install -g newman-reporter-htmlextra
 - https://documenter.getpostman.com/view/26807129/2s93Y2TMiV
 
 ## Newman Report Summary:
+https://github.com/Rakesh6430/API-Testing-On-Restful-Booker.wiki.git

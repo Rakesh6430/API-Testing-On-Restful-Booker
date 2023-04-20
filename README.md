@@ -35,7 +35,7 @@ npm install -g newman-reporter-htmlextra
 1. ### Create Booking
 	> Create Data Sets Using the Dynamic Random Variables.
 
-2. ### Verify Crated Booking Details
+2. ### Verify Booking Details
 	> In the test case you need to validate the following field values:
  	1. > First Name
  	2. > Last Name
@@ -44,16 +44,16 @@ npm install -g newman-reporter-htmlextra
 	5. > bookingdates
 	6. > additionalneeds
 
-3. ### Create Auth Token
+3. ### Create Token
 	> Using Form Data with those data
 	1. username : admin
 	2. password: password123
 
-4. ### Update Booking
+4. ### Update Booking Info
 	> In the test case you need to validate the following field values:
  	1. > Only Message
  
-5. ### Verify Verify Updated Booking Details
+5. ### Verify Updated Booking Info
 	> In the test case you need to validate the following field values:
 	1. > First Name
  	2. > Last Name
@@ -62,7 +62,7 @@ npm install -g newman-reporter-htmlextra
 	5. > bookingdates
 	6. > additionalneeds
 
-6. ### Get the Booking's Full Details
+6. ### Verify Updated Booking Info
 	> In the test case you need to validate the following field values:
 	1. > First Name
  	2. > Last Name
@@ -71,7 +71,7 @@ npm install -g newman-reporter-htmlextra
 	5. > bookingdates
 	6. > additionalneeds
 
-7. ### Delete Specific Booking
+7. ### Cancel Booking
 	> In the test case you need to validate the following field values:
 	1. > Only Message
 

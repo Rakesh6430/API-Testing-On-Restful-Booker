@@ -1,6 +1,6 @@
 # API-Testing-On-Restful-Booker
 
-- Here is the report [link](https://65ad590093d77d8465eafe39--lambent-dolphin-3d0224.netlify.app/)
+- Here is the Newman report [link](https://65ad590093d77d8465eafe39--lambent-dolphin-3d0224.netlify.app/)
 
 ## How to run this project
 - Clone this project

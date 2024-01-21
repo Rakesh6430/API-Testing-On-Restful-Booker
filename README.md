@@ -1,7 +1,5 @@
 # API-Testing-On-Restful-Booker
 
-- Here is the Newman report [link](https://65ad590093d77d8465eafe39--lambent-dolphin-3d0224.netlify.app/)
-
 ## How to run this project
 - Clone this project
 - Open with Postman / Command Shell
@@ -83,6 +81,7 @@ npm install -g newman-reporter-htmlextra
 - https://documenter.getpostman.com/view/26807129/2s93Y2TMiV
 
 ## Newman Report Summary:
+- Here is the Newman report [link](https://65ad590093d77d8465eafe39--lambent-dolphin-3d0224.netlify.app/)
 ![image](https://user-images.githubusercontent.com/46712252/233272139-69b52ab1-2c13-4bfb-b4ac-27511d20440c.png)
 ![image](https://user-images.githubusercontent.com/46712252/233385767-8d8cf79b-499d-49f4-bf54-b89673f773f2.png)
 
